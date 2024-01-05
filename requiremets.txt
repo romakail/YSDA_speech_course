@@ -1,4 +1,13 @@
-torch
+torch==2.0.0
 torchaudio
+tqdm
 librosa
+lightning
 soundfile
+sox
+matplotlib
+encodec
+torchvision
+tensorboard
+tensorboardX
+jupyterlab
