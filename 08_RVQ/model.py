@@ -153,7 +153,6 @@ class MNISTEncoderDecoder(L.LightningModule):
     def training_step_with_quantizer(self, pictures_batch):
                 # Your code here
         raise NotImplementedError("TODO: assignment")
-
         # ^^^^^^^^^^^^^^
 
         return loss

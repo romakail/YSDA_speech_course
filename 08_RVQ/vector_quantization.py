@@ -47,7 +47,6 @@ class VectorQuantizer(nn.Module):
         """
                 # Your code here
         raise NotImplementedError("TODO: assignment")
-
         # ^^^^^^^^^^^^^^
 
         return distances
@@ -63,7 +62,6 @@ class VectorQuantizer(nn.Module):
 
                 # Your code here
         raise NotImplementedError("TODO: assignment")
-
         # ^^^^^^^^^^^^^^
 
         return indices
@@ -77,7 +75,6 @@ class VectorQuantizer(nn.Module):
         """
                 # Your code here
         raise NotImplementedError("TODO: assignment")
-
         # ^^^^^^^^^^^^^^
 
         return decoded
@@ -112,7 +109,6 @@ class ResidualVectorQuantizer(nn.Module):
         """
                 # Your code here
         raise NotImplementedError("TODO: assignment")
-
         # ^^^^^^^^^^^^^^
 
         return codecs
@@ -126,7 +122,6 @@ class ResidualVectorQuantizer(nn.Module):
         """
                 # Your code here
         raise NotImplementedError("TODO: assignment")
-
         # ^^^^^^^^^^^^^^
 
         return sum(quantized)
@@ -155,7 +150,6 @@ class VectorQuantizationLoss(nn.Module):
 
                 # Your code here
         raise NotImplementedError("TODO: assignment")
-
         # ^^^^^^^^^^^^^^
 
 
